@@ -1,0 +1,4 @@
+a = "thalapathy"
+b = "vijay"
+c = (a+b)
+print(c)
